@@ -17,7 +17,7 @@ CREATE DATABASE database_name;
 DROP DATABASE database_name;
 ```
 
-
+## How Do We Create Tables?
 ```
 CREATE TABLE tablename
   (
@@ -30,4 +30,27 @@ CREATE TABLE cats
     age INT
   );
 
+```
+
+## How Do We Know It Worked?
+```
+SHOW TABLES;
+ 
+SHOW COLUMNS FROM tablename;
+ 
+DESC tablename;
+```
+
+## Dropping Tables
+```
+DROP TABLE <tablename>; 
+```
+
+
+
+```
+root@goorm:/workspace/mysql# mysql-ctl stop
+ * Stopping MySQL database server mysqld
+   ...done.
+root@goorm:/workspace/mysql#
 ```
