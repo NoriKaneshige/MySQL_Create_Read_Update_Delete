@@ -4,6 +4,18 @@
 ```
 mysql-ctl cli; 
 ```
+## Quit the CLI:
+```
+exit
+```
+
+## Start/Stop server:
+```
+mysql-ctl start
+mysql-ctl stop
+```
+
+
 ## List available databases:
 ```
 show databases; 
@@ -49,8 +61,5 @@ DROP TABLE <tablename>;
 
 
 ```
-root@goorm:/workspace/mysql# mysql-ctl stop
- * Stopping MySQL database server mysqld
-   ...done.
-root@goorm:/workspace/mysql#
+
 ```
