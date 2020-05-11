@@ -1,6 +1,6 @@
 # MySQL_Creating_Database_and_Tables
 
-## Start the CLI:
+## Start the CLI (Command-line interface):
 ```
 mysql-ctl cli; 
 ```
