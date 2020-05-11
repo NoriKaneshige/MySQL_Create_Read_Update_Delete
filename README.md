@@ -1,4 +1,4 @@
-# MySQL_Creating-Checking-Deleting_Databases-Tables_and_Inserting_Data
+# MySQL_CRUD (Ceate, Read, Update, Delete)
 
 ## Start the CLI (Command-line interface):
 ```
